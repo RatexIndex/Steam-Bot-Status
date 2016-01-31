@@ -18,4 +18,5 @@
 
   // ID = Last part of your profile url (http://steamcommunity.com/profiles/...)
   echo get_steam_status('YOUR STEAM-64 ID');
+  // If you need Help so write a Comment on Github https://github.com/RatexIndex/Steam-Bot-Status
 ?>
